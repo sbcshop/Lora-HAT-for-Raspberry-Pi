@@ -3,7 +3,7 @@ Pi LoRa™ Lora Hat is a low-power consumption data transmission board, comes wi
 
 <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img.png" />
 
-## For Communication between two Pico Lora Expansion
+## For Communication between two Pi Lora Hat
 
 <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img4.JPG" />
 
@@ -15,6 +15,7 @@ Pi LoRa™ Lora Hat is a low-power consumption data transmission board, comes wi
      * <b> open M0, short M1: WOR mode
      * <b> open M0, open M1: deep sleep mode
  
-  * <b> Device Selection Jumper : 
-    * </b> Set is as MODE 2 to enable PICO to LORA Communication (This is also mention in the board)
+  * <b> Device Selection Jumper(Board Selection, This is also mention in the board) : 
+    * </b> Set is as MODE 1 to enable USB to LORA Communication (Without raspberry pi)
+    * </b> Set is as MODE 2 to enable PI to LORA Communication (With raspberry pi)
 
