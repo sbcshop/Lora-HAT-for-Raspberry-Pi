@@ -29,6 +29,7 @@ Pi LoRa™ Lora Hat is a low-power consumption data transmission board, comes wi
  ## Applications
  In this folder you see two application
    * Pi Lora Broadcast (with LCD display)
+       * f
    * Pi Lora Homeautomation (with LCD display)
  
  
