@@ -18,6 +18,8 @@ Pi LoRa™ Lora Hat is a low-power consumption data transmission board, comes wi
   * <b> Device Selection Jumper(Board Selection, This is also mention in the board) : 
     * </b> Set is as MODE 1 to enable USB to LORA Communication (Without raspberry pi)
     * </b> Set is as MODE 2 to enable PI to LORA Communication (With raspberry pi)
+
+  <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img2.png" />
  
  ## Code
 
