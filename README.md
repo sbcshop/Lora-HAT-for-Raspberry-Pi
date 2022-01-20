@@ -4,7 +4,9 @@ Pi LoRa™ Lora Hat is a low-power consumption data transmission board, comes wi
 <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img.png" />
 
 ## For Communication between two Pico Lora Expansion
+
 <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img4.JPG" />
+
 * First take 2 LORA Hat board and set jumper position as mention below:
   * <b> Mode Selection Jumper :</b> we are going to use pi GPIO pin 13 and 15 to control MODE Selection
    * <b> LoRa mode selection jumpers 
