@@ -29,9 +29,10 @@ Pi LoRa™ Lora Hat is a low-power consumption data transmission board, comes wi
  ## Applications
  In this folder you see two application
    * Pi Lora Broadcast (with LCD display), In this folder you see three files
-       * transmitter.py
-       * receiver.py
-       * ST7789.py
+       * PCLinuxOSFonts -> this folder contains various fonts
+       * transmitter.py -> run this file to broadcast the data (any data eg: sensor data,any string and message etc)
+       * receiver.py    -> run this file to receive broadcast data from other lora
+       * ST7789.py      -> this is the lcd library file
  
    * Pi Lora Homeautomation (with LCD display)
  
