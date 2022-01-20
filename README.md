@@ -22,4 +22,9 @@ Pi LoRa™ Lora Hat is a low-power consumption data transmission board, comes wi
   <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img2.png" />
  
  ## Code
+ In this folder you see two python codes
+   * Lora_transmitter.py
+   * Lora_receiver.py
+ 
+ 
 
