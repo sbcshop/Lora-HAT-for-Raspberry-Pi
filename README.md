@@ -40,7 +40,9 @@ Pi LoRa™ Lora Hat is a low-power consumption data transmission board, comes wi
        * ST7789.py
  
  ## Lora GUI (run with the help of GUI)
- Go to Lora GUI folder, and run LORA_GUI.py file. from this file you can configure the Lora (eg: baud rate,channel etc)
+ For this you need to use lora onboard usb (use jumper wire at board selection 1)
+ Go to Lora GUI folder, and run LORA_GUI.py file. from this file you can configure the Lora, transmit and receive the data  (eg: baud rate,channel etc)
+ 
  <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/gui.JPG" />
  
 
