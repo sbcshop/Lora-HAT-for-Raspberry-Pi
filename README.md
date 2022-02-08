@@ -44,7 +44,7 @@ Pi LoRa™ Lora Hat is a low-power consumption data transmission board, comes wi
  <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_18.jpg" />
  
  Go to the Lora GUI folder, and run the LORA_GUI.py file. from this file, you can configure the Lora and you are able to transmit, receive the data  (eg: baud rate, channel etc)
- Follow the steps to configure the lora module:-
+ Follow the steps to configure the Lora module:-
 
  ### Step 1: Setup lora in configuration mode, for this you need to short M0 and open M1 as shown in figure
   <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_16.jpg" />
@@ -55,8 +55,12 @@ Pi LoRa™ Lora Hat is a low-power consumption data transmission board, comes wi
 ### Step 2: set the COM Port and Baudrate
   <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_2.png" />
  
-### Step 3: For COM Port go to Device Manager, before this first you need to connect the lora module via USB cable
+### Step 3: For COM Port go to Device Manager, before this first you need to connect the Lora module via USB cable 
   <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_7.png" />
+ 
+### Step 3: Write the right COM Port in the GUI,then press connect button
+  <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_8.png" />
+   <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_9.png" />
  
  <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/gui.JPG" />
 
