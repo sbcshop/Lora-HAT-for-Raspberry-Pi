@@ -65,8 +65,11 @@ Pi LoRa™ Lora Hat is a low-power consumption data transmission board, comes wi
 ### Step 3: Press read button to see the device configuration which lora already have
   <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img__10.png" />
  
-### Step 3: Write the values which you need to configure, for eg: i configure channel and baudrate
-  <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_11.png" />
+### Step 3: Write the values which you need to configure, for eg: i configure channel and baudrate, after that press write button
+  <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_13.png" />
+ 
+### Step 3: Restart the GUI, set baudrate and port, then connect and press read button 
+  <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_14.png" />
  
  
 
