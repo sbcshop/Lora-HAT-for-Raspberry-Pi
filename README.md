@@ -70,6 +70,7 @@ Pi LoRa™ Lora Hat is a low-power consumption data transmission board, comes wi
  
 ### Step 3: Restart the GUI, set baudrate and port, then connect and press read button 
   <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_14.png" />
+  <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_15.png" />
  
  
 
