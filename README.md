@@ -52,6 +52,9 @@ Pi LoRa™ Lora Hat is a low-power consumption data transmission board, comes wi
 ### Step 2: Open lora GUI 
  <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_1.png" />
 
+ ### Step 2: set the COM Port and Baudrate
+  <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_2.png" />
+ 
  <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/gui.JPG" />
 
 ### <a href="https://learn.sb-components.co.uk/LoRa-HAT-for-Raspberry-Pi" > LoRa HAT Wiki Portal </a>
