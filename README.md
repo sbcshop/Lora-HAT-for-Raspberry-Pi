@@ -49,6 +49,9 @@ Pi LoRa™ Lora Hat is a low-power consumption data transmission board, comes wi
  ### Step 1: Setup lora in configuration mode, for this you need to short M0 and open M1 as shown in figure
   <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_16.jpg" />
  
+### Step 2: Open lora GUI 
+ <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_1.png" />
+
  <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/gui.JPG" />
 
 ### <a href="https://learn.sb-components.co.uk/LoRa-HAT-for-Raspberry-Pi" > LoRa HAT Wiki Portal </a>
