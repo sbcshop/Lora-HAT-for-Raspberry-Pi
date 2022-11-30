@@ -43,7 +43,7 @@ Pi LoRa™ Lora Hat is a low-power consumption data transmission board, comes wi
 
 * GatePi 4Channel
 * GatePi 8channel
-* RangePi(USB Dongle)
+* RangePi
 * LoRA HAT for RPi*
 * PICO LoRa Expansion
 
