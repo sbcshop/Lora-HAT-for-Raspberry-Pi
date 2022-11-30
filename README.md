@@ -39,6 +39,30 @@ Pi LoRa™ Lora Hat is a low-power consumption data transmission board, comes wi
        * pi_lora_receiver_home_automation.py 
        * ST7789.py
  
+ ## Our Other LoRa Products
+
+* GatePi 4Channel
+* GatePi 8channel*
+* RangePi(USB Dongle)
+* LoRA HAT for RPi
+* PICO LoRa Expansion
+
+You will simply need to make one device to work as reciever and another one is as a transmitter. So that you can communicate to each other and this can be done with any of our LoRa products mentioned above. For working with our other products please follow the below link:
+
+* GatePi 4Channel
+https://github.com/sbcshop/GatePi-4CH
+
+* GatePi 8channel* (Itself)
+* RangePi
+https://github.com/sbcshop/RangePi
+* LoRA HAT for RPi
+https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi
+* PICO LoRa Expansion
+https://github.com/sbcshop/PICO-LORA-EXPANSION
+
+
+### Note: Every time you choose the mode of transmit device the transmit code of that device should be run in it and reciever code will always same.
+ 
  ## Lora GUI For Configuration (run with the help of GUI)
  For this, you need to use Lora onboard USB 
  <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_18.jpg" />
