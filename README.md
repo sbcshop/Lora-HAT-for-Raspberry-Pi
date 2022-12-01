@@ -69,7 +69,8 @@ https://github.com/sbcshop/PICO-LORA-EXPANSION
  Go to the Lora GUI folder, and run the LORA_GUI.py file. from this file, you can configure the Lora and you are able to transmit, receive the data  (eg: baud rate, channel etc)
  Follow the steps to configure the Lora module:-
 
- ### Step 1: Setup lora in configuration mode, for this you need to short M0 and open M1 as shown in figure
+ ### Step 1: Setup lora in configuration mode, for this you need to short M0 and open M1 as shown in figure. In case of PICO LoRa Expansion find the mode selection jumper in that board and remove M1 jumper for config mode.
+ 
   <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_16.jpg" />
  
 ### Step 2: Open lora GUI 
