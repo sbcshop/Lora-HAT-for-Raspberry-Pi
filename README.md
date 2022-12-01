@@ -60,7 +60,7 @@ https://github.com/sbcshop/RangePi
 https://github.com/sbcshop/PICO-LORA-EXPANSION
 
 
-### Note: Every time you choose the mode of transmit device the transmit code of that device should be run in it and reciever code will always same (or depending upon what you to control or recieve).
+### Note: Every time you choose the mode of transmit device the transmit code of that device should be run in it and reciever code will always same (or depending upon what you want to control or recieve).
  
  ## Lora GUI For Configuration (run with the help of GUI)
  For this, you need to use Lora onboard USB 
