@@ -93,7 +93,7 @@ https://github.com/sbcshop/PICO-LORA-EXPANSION
   
   <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_13.png" />
   
-**- For changing frequency using Software for 868MHz & 915MHz LoRa module:**
+**-> For changing frequency using Software for 868MHz & 915MHz LoRa module:**
   
   Frequency = 850.125MHz + CH*1MHz
   
@@ -104,7 +104,7 @@ https://github.com/sbcshop/PICO-LORA-EXPANSION
   Frequency = 855.125MHz 
   
 
-  **- For Changing Frequency using Software for 433MHz LoRa Module:**
+  **-> For Changing Frequency using Software for 433MHz LoRa Module:**
   Frequency = 410.125MHz + CH*1MHz
   
   0-83 total of 84 Channel available
