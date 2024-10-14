@@ -25,7 +25,17 @@ Pi LoRa™ Lora Hat is a low-power consumption data transmission board, comes wi
  In this folder you see two python codes
    * Lora_transmitter.py -> run this file to transmit the data (any data eg: sensor data,any string and message etc)
    * Lora_receiver.py    -> run this file to receive data from other lora
- 
+     
+**NOTE:** There is difference in latest Raspberry Pi 5 terminal use as compared to previous Pi 4 and 3. To Use LoRa HAT with Raspberry Pi 5 you will have to change Serial access port as shown in below code
+
+```
+# For previous Raspberry Pi 4 & 3
+lora = serial.Serial(port = '/dev/ttyS0', baudrate = 9600, parity = serial.PARITY_NONE, stopbits = serial.STOPBITS_ONE, bytesize = serial.EIGHTBITS, timeout = 1)
+
+# replace ttyS0 with ttyAMA0 for RPi 5 
+lora = serial.Serial(port = '/dev/ttyAMA0', baudrate = 9600, parity = serial.PARITY_NONE, stopbits = serial.STOPBITS_ONE, bytesize = serial.EIGHTBITS, timeout = 1)
+
+```
  ## Applications
  In this folder you see two application
    * Pi Lora Broadcast (with LCD display), In this folder you see three files
